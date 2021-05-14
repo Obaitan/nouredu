@@ -158,3 +158,13 @@ for (var i = 0; i < btns.length; i++) {
     this.className += " activer";
   });
 }
+
+// Tooltips Initialization
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
+// Animate menu icon
+function myFunction(x) {
+  x.classList.toggle("change");
+}
