@@ -605,7 +605,7 @@ footer {
 /* ...About Page... */
 .about-hero {
   position: relative;
-  background-image: url("../images/about.jpg");
+  background-image: url("../images/slide-2.jpg");
   height: 65vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -615,7 +615,7 @@ footer {
 }
 
 .about-hero:after {
-  background: #000;
+  /* background: #000; */
   content: "";
   display: block;
   height: 100%;
@@ -680,7 +680,7 @@ footer {
 /* ...services Page... */
 .services-hero {
   position: relative;
-  background-image: url("../images/services.jpg");
+  background-image: url("../images/slide-1.jpg");
   height: 65vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -690,7 +690,7 @@ footer {
 }
 
 .services-hero:after {
-  background: #000;
+  /* background: #000; */
   content: "";
   display: block;
   height: 100%;
@@ -714,7 +714,7 @@ footer {
 /* ...schools Page... */
 .schools-hero {
   position: relative;
-  background-image: url("../images/services.jpg");
+  background-image: url("../images/slide-3.jpg");
   height: 65vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -724,7 +724,7 @@ footer {
 }
 
 .schools-hero:after {
-  background: #000;
+  /* background: #000; */
   content: "";
   display: block;
   height: 100%;
@@ -954,7 +954,7 @@ footer {
 /* ...Contact Page */
 .contact-hero {
   position: relative;
-  background-image: url("../images/about.jpg");
+  background-image: url("../images/contact.jpg");
   height: 65vh;
   background-position: center;
   background-repeat: no-repeat;
@@ -964,7 +964,7 @@ footer {
 }
 
 .contact-hero:after {
-  background: #000;
+  /* background: #000; */
   content: "";
   display: block;
   height: 100%;
